@@ -36,7 +36,7 @@
     
     
       
-    
+
      <div class="text-center">
          
          <div class="container" style="display: inline-block; margin-left:0; margin-right:0;">
@@ -88,7 +88,7 @@
 	                           
 	                       }
 	                       else{
-	                           echo "Failed to update";
+	                           echo "Failed to update the details!!!";
 	                       }
 	                    }
 
